@@ -1,0 +1,2 @@
+# lolmoney
+# !firebase.apps.length
